@@ -1,0 +1,13 @@
+.male {
+  background-color: lightblue;
+  padding: 0.5rem;
+  border: 1px solid lightskyblue;
+  border-radius: 10px;
+}
+
+.female {
+  background-color: pink;
+  padding: 0.5rem;
+  border: 1px solid plum;
+  border-radius: 10px;
+}
